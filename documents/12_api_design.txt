@@ -1,0 +1,1 @@
+REST API design typically involves using standard HTTP methods like GET, POST, PUT, and DELETE to manage resources on the server.

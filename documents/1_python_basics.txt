@@ -1,0 +1,1 @@
+Python is a high-level, interpreted programming language known for its readability. It is widely used in data science, web development, and automation.

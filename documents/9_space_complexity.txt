@@ -1,0 +1,1 @@
+Space complexity refers to the total amount of memory space that an algorithm or program needs to execute and complete.

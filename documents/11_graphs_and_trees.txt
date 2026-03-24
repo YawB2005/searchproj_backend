@@ -1,0 +1,1 @@
+Graphs and trees are fundamental data structures. A tree is a special type of graph that is connected and acyclic.

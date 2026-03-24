@@ -1,0 +1,1 @@
+Data structures like lists, dictionaries, sets, and tuples are essential in Python. A dictionary allows fast lookups using key-value pairs.

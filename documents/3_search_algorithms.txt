@@ -1,0 +1,1 @@
+Search algorithms are step-by-step procedures used to locate specific data among a collection of data. Common ones include linear search and binary search.
